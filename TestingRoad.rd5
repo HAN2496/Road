@@ -1,0 +1,69 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = IPGRoad 10.0
+FileCreator = CarMaker 10.2.1
+LibVersion = 10.2.1
+Country = DEU
+nLinks = 1
+nJunctions = 0
+nObjects = 62
+nRoutes = 1
+RoadNetworkLength = 10000
+BBox = -10 10010 -4013.5 13.5 -11 11
+Route.0.Length = 10000
+RST.Unit = kmh
+RST = 50 100 130 30 70 30 0 -1
+Movie = 0.2 1 0.01 1.5 1.5 1 1
+PathMode = -1
+Link.0.ID = 0
+Link.0.Node0 = 0 0 0 0
+Link.0.Node1 = 10000 0 0 0
+Link.0.RST = Countryroad
+Link.0.RL.ID = 1
+Link.0.Seg.0.ID = 5
+Link.0.Seg.0.Type = Straight
+Link.0.Seg.0.Param = 10000 0 0 0 0 0 0 0
+Link.0.LaneSection.0.ID = 6
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0.ID = 18
+Link.0.LaneSection.0.LaneL.0 = 0 1 1 4 0 0 0
+Link.0.LaneSection.0.LaneL.0.ARP = 21 22 23 24 25 26
+Link.0.LaneSection.0.LaneL.1.ID = 28
+Link.0.LaneSection.0.LaneL.1 = 0 2.5 2.5 5 0 0 0
+Link.0.LaneSection.0.LaneR.0.ID = 10
+Link.0.LaneSection.0.LaneR.0 = 0 3000 3000 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.ARP = 13 14 15 16 17 19
+Link.0.LaneSection.0.LaneR.1.ID = 31
+Link.0.LaneSection.0.LaneR.1 = 0 1000 1000 0 0 0 0
+Link.0.LaneSection.0.LaneR.1.ARP = 34 35 36 37 38 39
+Link.0.LaneSection.0.LaneR.2.ID = 42
+Link.0.LaneSection.0.LaneR.2 = 0 1 1 4 0 0 0
+Link.0.LaneSection.0.LaneR.2.ARP = 45 46 47 48 49 50
+Link.0.LaneSection.0.LaneR.3.ID = 52
+Link.0.LaneSection.0.LaneR.3 = 0 2.5 2.5 5 0 0 0
+Link.0.ElevationProfile.ID = 68
+Link.0.ElevationProfile.Params = 0 0
+Link.0.ElevationProfile:
+	2 -1 0 0 0 0 0
+	3 -1 100 0 0 $elevation=0 -999
+Link.0.SlopeProfile.ID = 81
+Link.0.SlopeProfile.Params = 0 0
+Link.0.SlopeProfile:
+	4 -1 0 0 0 $slope=0 -999
+	9 -1 1000 0 0 $slope=0 -999
+	97 -1 0 1 0 0 -999
+LanePath.0 = 27 18 0.25 10 0.1 0.1
+LanePath.1 = 20 10 2 10 0.1 0.1
+LanePath.2 = 40 31 2 10 0.1 0.1
+LanePath.3 = 51 42 0.25 10 0.1 0.1
+Route.0.ID = 7
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 8
+Route.0.DrvPath:
+	40
+RL.1.RoadMarking.0.ID = 55 6
+RL.1.RoadMarking.0 = 0 0 0 1 0 0 0.15 0 2 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+RL.1.RoadMarking.1.ID = 41 31
+RL.1.RoadMarking.1 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.1.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0
+MaxUsedObjId = 97

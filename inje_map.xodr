@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenDRIVE xmlns="http://www.opendrive.org">
+    <header revMajor="1" revMinor="5" date="2023-12-04T18:45:25">
+        <userData code="Created by IPGRoad" value="LibVersion 9.1" />
+    </header>
+    <road name="object 1" length="3956.66608058999" id="0" junction="-1" rule="RHT">
+        <link>
+            <predecessor elementType="road" elementId="0" contactPoint="end" />
+            <successor elementType="road" elementId="0" contactPoint="start" />
+        </link>
+        <type s="0" type="unknown" country="DEU">
+            <speed max="undefined" unit="km/h" />
+        </type>
+        <planView>
+            <geometry s="0" x="0" y="0" hdg="1.56953968973346" length="481.739">
+                <line />
+            </geometry>
+            <geometry s="481.739" x="0.605370922011864" y="481.738619634182" hdg="1.56953968973346" length="72.3991624673855">
+                <paramPoly3 aU="0" bU="0.97825060885435" cU="0.00172827273125887" dU="-3.20929119191402e-05" aV="0" bV="-2.23345647532014e-17" cV="-0.00280955665467159" dV="-1.59763905240029e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="554.138162467385" x="21.48" y="549.417" hdg="0.831719201745378" length="76.903">
+                <line />
+            </geometry>
+            <geometry s="631.041162467385" x="73.282330711586" y="606.255278843113" hdg="0.831719201745378" length="43.4507790318273">
+                <paramPoly3 aU="0" bU="0.966246770599189" cU="0.00131556752068103" dU="-9.07388264284587e-05" aV="0" bV="-3.88578058618805e-16" cV="-0.0134431103262959" dV="6.8074286066225e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="674.491941499213" x="112.853" y="620.285" hdg="-0.112434110413475" length="67.336">
+                <line />
+            </geometry>
+            <geometry s="741.827941499213" x="179.763836534944" y="612.73007775063" hdg="-0.112434110413475" length="32.7628293862205">
+                <paramPoly3 aU="0" bU="0.966303551371172" cU="0.000449028363017551" dU="-0.000132544208059118" aV="0" bV="1.38777878078145e-16" cV="-0.0200979432769455" dV="0.000166402126426508" pRange="arcLength" />
+            </geometry>
+            <geometry s="774.590770885433" x="205.306" y="594.025" hdg="-1.05372508259906" length="191.821">
+                <line />
+            </geometry>
+            <geometry s="966.411770885433" x="300.130098747439" y="427.280625768855" hdg="-1.05372508259906" length="33.1352840668922">
+                <arc curvature="-0.0394150802096882" />
+            </geometry>
+            <geometry s="999.547054952325" x="295.951849596606" y="396.735050289943" hdg="-2.35975496186641" length="35.3003983397798">
+                <arc curvature="-0.0212008141112619" />
+            </geometry>
+            <geometry s="1034.84745329211" x="264.295027783161" y="383.064773798501" hdg="-3.10815214512158" length="30.1350819058941">
+                <paramPoly3 aU="0" bU="0.96013693486797" cU="-0.00187923649298089" dU="-0.00012887551288944" aV="0" bV="6.17561557447743e-16" cV="-0.0275431093171946" dV="0.000307517100458193" pRange="arcLength" />
+            </geometry>
+            <geometry s="1064.982535198" x="240.053" y="398.86" hdg="2.14682479312311" length="133.406">
+                <line />
+            </geometry>
+            <geometry s="1198.388535198" x="167.38707411707" y="510.73861302133" hdg="2.14682479312311" length="7.22673667779281">
+                <paramPoly3 aU="0" bU="0.978624056316732" cU="-0.00321988933557645" dU="-0.00130206438815011" aV="0" bV="-6.10622663543836e-16" cV="0.0808306307612281" dV="-0.00328299573521188" pRange="arcLength" />
+            </geometry>
+            <geometry s="1205.61527187579" x="161.393" y="514.492" hdg="2.87860644189929" length="69.7328915838859">
+                <arc curvature="0.0171294472327378" />
+            </geometry>
+            <geometry s="1275.34816345968" x="99.3664309106448" y="492.9509177089" hdg="-2.2100929785079" length="92.3252999923764">
+                <paramPoly3 aU="0" bU="0.91085061698138" cU="0.00250522786911403" dU="-5.77981167987533e-05" aV="0" bV="-2.22044604925031e-16" cV="0.0109505491527596" dV="-4.3688478614952e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="1367.67346345205" x="110.907" y="409.652" hdg="-0.524244547421537" length="148.765">
+                <line />
+            </geometry>
+            <geometry s="1516.43846345205" x="239.693208211376" y="335.18631797441" hdg="-0.524244547421537" length="48.1792067473052">
+                <paramPoly3 aU="0" bU="0.955844009675697" cU="0.00230159302043764" dU="-0.000106569337634039" aV="0" bV="-6.66133814775094e-16" cV="-0.0129892393391624" dV="5.75492146836683e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="1564.61767019936" x="261.997" y="294.896" hdg="-1.62196938046337" length="240.714">
+                <line />
+            </geometry>
+            <geometry s="1805.33167019936" x="249.684305039068" y="54.4971078669475" hdg="-1.62196938046337" length="44.2125735879306">
+                <arc curvature="-0.0232331211374936" />
+            </geometry>
+            <geometry s="1849.54424378729" x="227.047447594764" y="18.7706450882767" hdg="-2.64916545843211" length="146.276135649133">
+                <paramPoly3 aU="0" bU="0.978935151976016" cU="0.00125057435984352" dU="-9.11032348922216e-06" aV="0" bV="1.66533453693773e-16" cV="-0.00108398195636649" dV="1.45527180184389e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="1995.82037943642" x="112.981" y="-67.795" hdg="-1.96723041309289" length="117.385">
+                <line />
+            </geometry>
+            <geometry s="2113.20537943642" x="67.654959814327" y="-176.076061622459" hdg="-1.96723041309289" length="25.2986423445959">
+                <paramPoly3 aU="0" bU="0.95192592238542" cU="5.81139369273433e-05" dU="-0.0002947577227189" aV="0" bV="-6.10622663543836e-16" cV="0.0328760337857682" dV="-0.000413831291007072" pRange="arcLength" />
+            </geometry>
+            <geometry s="2138.50402178102" x="73.413" y="-199.46" hdg="-0.817302782123905" length="47.846">
+                <line />
+            </geometry>
+            <geometry s="2186.35002178102" x="106.148792199863" y="-234.354234839689" hdg="-0.817302782123905" length="81.6561241292084">
+                <arc curvature="-0.0238543927864316" />
+            </geometry>
+            <geometry s="2268.00614591023" x="90.9860560833304" y="-302.021969574304" hdg="-2.76516004051966" length="24.6602815806682">
+                <paramPoly3 aU="0" bU="0.993018244278664" cU="0.000896569077668705" dU="-7.00589187112377e-05" aV="0" bV="-1.66533453693773e-16" cV="-0.00824547901836706" dV="4.31890319174317e-06" pRange="arcLength" />
+            </geometry>
+            <geometry s="2292.6664274909" x="66.8631063221734" y="-306.235139713074" hdg="3.10476620637271" length="56.8032455598518">
+                <line />
+            </geometry>
+            <geometry s="2349.46967305075" x="10.0983743270816" y="-304.143750782665" hdg="3.10476620637271" length="40.7511915160676">
+                <arc curvature="0.0417170747987151" />
+            </geometry>
+            <geometry s="2390.22086456681" x="-14.652941401253" y="-330.31021387206" hdg="-1.47839859619432" length="74.6601174774264">
+                <paramPoly3 aU="0" bU="0.919961911875618" cU="0.00264685966924927" dU="-7.86244950291435e-05" aV="0" bV="-2.35922392732846e-16" cV="-0.012605909246847" dV="5.75488888756647e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="2464.88098204424" x="-56.093" y="-385.085" hdg="-3.04875859067621" length="120.311">
+                <line />
+            </geometry>
+            <geometry s="2585.19198204424" x="-175.88594230059" y="-396.237923202793" hdg="-3.04875859067621" length="84.0280131337227">
+                <paramPoly3 aU="0" bU="0.913854440112293" cU="0.00177707528457437" dU="-6.05869489180066e-05" aV="0" bV="-2.08166817117217e-16" cV="-0.0126070391030768" dV="5.70096653520736e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="2669.21999517796" x="-234.163" y="-346.234" hdg="1.58601559787229" length="70.877">
+                <line />
+            </geometry>
+            <geometry s="2740.09699517796" x="-235.241654634246" y="-275.365208327078" hdg="1.58601559787229" length="40.9387948443991">
+                <paramPoly3 aU="0" bU="0.970583182879868" cU="-0.00172914512065175" dU="-3.94627429321639e-05" aV="0" bV="-4.54497550705923e-16" cV="0.0184005961732783" dV="-0.000152898808095249" pRange="arcLength" />
+            </geometry>
+            <geometry s="2781.03579002236" x="-256.107" y="-241.55" hdg="2.4496219650516" length="149.971">
+                <line />
+            </geometry>
+            <geometry s="2931.00679002236" x="-371.583185537514" y="-145.860128985845" hdg="2.4496219650516" length="28.5868529232052">
+                <paramPoly3 aU="0" bU="0.980089677483678" cU="-0.000739893949561182" dU="-7.78312587140024e-05" aV="0" bV="-2.22044604925031e-16" cV="0.0196437855272135" dV="-0.000199294842770671" pRange="arcLength" />
+            </geometry>
+            <geometry s="2959.59364294557" x="-398.563" y="-138.305" hdg="-3.12939280211835" length="88.502">
+                <line />
+            </geometry>
+            <geometry s="3048.09564294557" x="-487.058413923217" y="-139.38468447174" hdg="-3.12939280211835" length="80.3593679522019">
+                <arc curvature="-0.0255846082996469" />
+            </geometry>
+            <geometry s="3128.45501089777" x="-522.330413928389" y="-82.4967721883698" hdg="1.09782955279695" length="29.4715421169039">
+                <paramPoly3 aU="0" bU="0.976345289251841" cU="0.00592067132307435" dU="-0.000236434370016119" aV="0" bV="-6.66133814775094e-16" cV="-0.00202621503185607" dV="-0.000211670028746914" pRange="arcLength" />
+            </geometry>
+            <geometry s="3157.92655301467" x="-503.247" y="-60.961" hdg="0.340147217921175" length="84.172">
+                <line />
+            </geometry>
+            <geometry s="3242.09855301467" x="-423.897587600661" y="-32.8790425205139" hdg="0.340147217921175" length="58.488950558195">
+                <paramPoly3 aU="0" bU="0.956757438928492" cU="0.00170423217625837" dU="-6.91050926666798e-05" aV="0" bV="-3.88578058618805e-16" cV="-0.0108171017844956" dV="4.08648723522111e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="3300.58750357287" x="-369.065" y="-44.054" hdg="-0.744644725363381" length="296.106">
+                <line />
+            </geometry>
+            <geometry s="3596.69350357287" x="-151.329753392108" y="-244.728177762363" hdg="-0.744644725363381" length="60.6755146403766">
+                <paramPoly3 aU="0" bU="0.94448243434534" cU="0.00205604996159637" dU="-8.14350850027238e-05" aV="0" bV="-2.77555756156289e-16" cV="0.0122926983924344" dV="-5.38148268320299e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="3657.36901821325" x="-94.477" y="-251.929" hdg="0.508972916466586" length="74.5639999999999">
+                <line />
+            </geometry>
+            <geometry s="3731.93301821325" x="-29.364326561477" y="-215.595408742209" hdg="0.508972916466586" length="65.6063456431712">
+                <paramPoly3 aU="0" bU="0.958827880114631" cU="-0.000463880364603896" dU="-3.25778819554027e-05" aV="0" bV="5.55111512312578e-17" cV="0.0122924425794343" dV="-6.05097021920166e-05" pRange="arcLength" />
+            </geometry>
+            <geometry s="3797.53936385642" x="-1.665" y="-159.117" hdg="1.5587186483711" length="159.126716733568">
+                <paramPoly3 aU="0" bU="0.999993679920358" cU="3.43366334709745e-07" dU="-2.20925942890849e-09" aV="0" bV="-4.66640615037761e-16" cV="-3.75713659998272e-05" dV="2.99852525315284e-07" pRange="arcLength" />
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0" a="41" b="-4.22838847269347e-17" c="-2.62393356055521e-05" d="3.48312951114205e-09" />
+            <elevation s="59.898" a="40.9066078137719" b="-0.00310587744128263" c="-2.56134381311769e-05" d="8.33529985887599e-09" />
+            <elevation s="155.538" a="40.3825672178199" b="-0.00777648668353011" c="-2.32218738956682e-05" d="2.0696471535751e-08" />
+            <elevation s="196.329" a="40.0281222603246" b="-0.00956766266999145" c="-2.06891845844237e-05" d="3.67695524541709e-08" />
+            <elevation s="375.875" a="37.8561558167933" b="-0.0134409889528161" c="-8.83706389614017e-07" d="8.81014604485951e-08" />
+            <elevation s="450.423" a="36.8857457101303" b="-0.0121038997342252" c="1.88196566309516e-05" d="1.3795171540551e-07" />
+            <elevation s="511.586" a="36.2474016830364" b="-0.00825357049896061" c="4.41322789389933e-05" d="1.42790756607052e-07" />
+            <elevation s="568.031" a="35.9478149216087" b="-0.00190666718903086" c="6.83117517090483e-05" d="1.03466045191389e-07" />
+            <elevation s="614.281" a="36.0159907361059" b="0.00507613085593224" c="8.26676654793535e-05" d="3.30797396954708e-08" />
+            <elevation s="637.166" a="36.1758494412228" b="0.00891180378878925" c="8.4938755008146e-05" d="-7.53420239236268e-08" />
+            <elevation s="729.91" a="37.6728593802665" b="0.0227227717275829" c="6.39761930078275e-05" d="-1.86856590021977e-07" />
+            <elevation s="781.591" a="38.9922776503055" b="0.0278382387495509" c="3.50053867210502e-05" d="-2.37501063558811e-07" />
+            <elevation s="817.747" a="40.0333324983302" b="0.0294381239636915" c="9.24412135895314e-06" d="-2.30775526596298e-07" />
+            <elevation s="865.023" a="41.4213256530786" b="0.0287648102522139" c="-2.34863100271467e-05" d="-1.74898430169341e-07" />
+            <elevation s="941.726" a="43.4105681853877" b="0.0220749032291179" c="-6.37320128949835e-05" d="-1.99451582010214e-08" />
+            <elevation s="1012.265" a="44.6435947471994" b="0.0127859919199885" c="-6.79527474380091e-05" d="1.36446495420346e-07" />
+            <elevation s="1096.702" a="45.3208703134805" b="0.00422896930307573" c="-3.33893492365859e-05" d="2.50214723239474e-07" />
+            <elevation s="1177.213" a="45.575498953167" b="0.00371824087277253" c="2.7045763511614e-05" d="2.50454544041653e-07" />
+            <elevation s="1211.848" a="45.7471296464589" b="0.00649302412019353" c="5.30692429102619e-05" d="2.00060590793163e-07" />
+            <elevation s="1269.031" a="46.3293589388843" b="0.0145248728249528" c="8.73894372002383e-05" d="5.51968087857752e-08" />
+            <elevation s="1341.663" a="47.8664937841747" b="0.0280929689949569" c="9.94166010474235e-05" d="-8.63119544635274e-08" />
+            <elevation s="1395.139" a="49.6398941133375" b="0.0379852989333411" c="8.55697468167488e-05" d="-1.90169921491862e-07" />
+            <elevation s="1468.781" a="52.8253161840238" b="0.0474943968237786" c="4.35562667412376e-05" d="-2.2201113109678e-07" />
+            <elevation s="1546.526" a="56.6767086527335" b="0.0502412650741586" c="-8.22449942011988e-06" d="-1.88384209704123e-07" />
+            <elevation s="1618.191" a="60.165671813831" b="0.046159895881529" c="-4.87261625854578e-05" d="-9.66911582670846e-08" />
+            <elevation s="1731.9" a="64.6422929699637" b="0.0313281157913462" c="-8.17101273316336e-05" d="-1.46997482259355e-08" />
+            <elevation s="1794.9" a="66.2879811414946" b="0.0208576098454342" c="-8.44883797463354e-05" d="4.78479289829781e-08" />
+            <elevation s="1873.53" a="67.4289116279331" b="0.00845845210223368" c="-7.32015317785407e-05" d="7.20116593314439e-08" />
+            <elevation s="1928.658" a="67.6848074482828" b="0.00104409513489895" c="-6.12919555116692e-05" d="4.08403901530715e-08" />
+            <elevation s="2041.089" a="67.0854638285539" b="-0.0111893795595896" c="-4.75167777957692e-05" d="1.59427708864935e-08" />
+            <elevation s="2118.212" a="65.9471908879199" b="-0.0182341717142253" c="-4.38281148385321e-05" d="1.03662500904724e-08" />
+            <elevation s="2202.31" a="64.1099259771928" b="-0.0253859402271951" c="-4.12127721382065e-05" d="2.35980116427021e-08" />
+            <elevation s="2289.027" a="61.6140082362993" b="-0.0320012764698862" c="-3.50737258113459e-05" d="3.65968783760756e-08" />
+            <elevation s="2357.011" a="59.2878279688897" b="-0.0362627478004864" c="-2.76097192727885e-05" d="4.22557781733829e-08" />
+            <elevation s="2391.64" a="58.000731305818" b="-0.0380229264523887" c="-2.32198932456903e-05" d="3.87706676577447e-08" />
+            <elevation s="2458.457" a="55.3680534431374" b="-0.0406066173928009" c="-1.54482741430277e-05" d="4.14489676194066e-08" />
+            <elevation s="2564.142" a="50.952923962818" b="-0.042483048845749" c="-2.30667171445677e-06" d="7.0507792791053e-08" />
+            <elevation s="2608.107" a="49.0866899199937" b="-0.0422770164619601" c="6.99295361571919e-06" d="5.41897454914564e-08" />
+            <elevation s="2689.187" a="45.7337249335427" b="-0.0400743144053789" c="2.0174067309061e-05" d="3.26285187067045e-08" />
+            <elevation s="2757.015" a="43.1185597043608" b="-0.036887245162084" c="2.68134488095761e-05" d="3.66214997683675e-08" />
+            <elevation s="2874.596" a="39.2115558811666" b="-0.02906283217803" c="3.97314265023693e-05" d="8.43910845165976e-08" />
+            <elevation s="2951.993" a="37.2393091640471" b="-0.0213960631149664" c="5.93262768073626e-05" d="8.35756010957993e-08" />
+            <elevation s="3032.228" a="35.9476870655553" b="-0.0102618827604582" c="7.9443341869127e-05" d="1.24997145446917e-08" />
+            <elevation s="3103.931" a="35.6249309408087" b="0.00132356422861204" c="8.21321429651211e-05" d="-1.07979724089044e-07" />
+            <elevation s="3296.29" a="38.1500192621875" b="0.0209348856512755" c="1.98195277269877e-05" d="-1.02522445993394e-07" />
+            <elevation s="3361.992" a="39.5819617775156" b="0.0222115587040677" c="-3.88261512986278e-07" d="-9.03166431576992e-08" />
+            <elevation s="3478.566" a="42.022897735528" b="0.0184389629261411" c="-3.19739785913831e-05" d="-9.16876201404006e-08" />
+            <elevation s="3568.113" a="43.351826860462" b="0.0105069782151483" c="-5.66050325535204e-05" d="-4.57417157799531e-08" />
+            <elevation s="3649.059" a="43.807173678712" b="0.000443942138737458" c="-6.77128593300927e-05" d="5.07225673473283e-08" />
+            <elevation s="3718.886" a="43.5252869611633" b="-0.00827048872565766" c="-5.7087445199607e-05" d="1.794674881248e-07" />
+            <elevation s="3805.842" a="42.4924610843768" b="-0.0141276332092821" c="-1.02701205074666e-05" d="2.56494666354546e-07" />
+            <elevation s="3869.798" a="41.614005536334" b="-0.0122938306476303" c="3.89429981366472e-05" d="2.44190175057891e-07" />
+        </elevationProfile>
+        <lanes>
+            <laneSection s="0">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="1e-07" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="554.138162467385">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.9999965641473e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="674.491941499213">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.9999965641473e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="774.590770885433">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.9999965641473e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="1064.982535198">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="1.00000079328311e-07" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="1205.61527187579">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="1.00000079328311e-07" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="1367.67346345205">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="1.00000079328311e-07" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="1564.61767019936">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="1.00000079328311e-07" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="1995.82037943642">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="1.00000079328311e-07" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="2138.50402178102">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.99998519546352e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="2293.104">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.99998519546352e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="2465.31855455335">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.99998519546352e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="2669.65756768707">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.99998519546352e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="2781.47336253147">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.99998519546352e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="2960.03121545467">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.99998519546352e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="3301.02507608197">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.99998519546352e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="3657.80659072235">
+                <center>
+                    <lane id="0" type="driving" />
+                </center>
+                <right>
+                    <lane id="-1" type="driving">
+                        <link>
+                            <predecessor id="-1" />
+                            <successor id="-1" />
+                        </link>
+                        <width sOffset="0" a="15" b="0" c="0" d="0" />
+                        <roadMark sOffset="9.99998519546352e-08" type="solid" color="standard" width="15" height="0" />
+                        <material sOffset="0" surface="Textures/Ground/Asphalt_01.jpg" friction="1" />
+                        <speed sOffset="0" max="300" unit="km/h" />
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 371" id="1" s="0" t="0" zOffset="0" validLength="0" orientation="none" hdg="0" pitch="0" roll="0" length="0" width="0.155" height="0.75">
+                <repeat s="0" length="0" distance="0" tStart="0" tEnd="0" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="0" lengthEnd="0" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="1" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 657" id="2" s="0" t="0" zOffset="0" validLength="0" orientation="none" hdg="0" pitch="0" roll="0" length="0" width="0.155" height="0.75">
+                <repeat s="0" length="0" distance="0" tStart="0" tEnd="0" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="0" lengthEnd="0" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 376" id="3" s="0.052" t="2" zOffset="0" validLength="23.236162467385" orientation="none" hdg="0" pitch="0" roll="0" length="23.236162467385" width="0.155" height="0.75">
+                <repeat s="0.052" length="23.236162467385" distance="0" tStart="2" tEnd="2" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="23.236162467385" lengthEnd="23.236162467385" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="L" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 658" id="4" s="0.898" t="-17" zOffset="0" validLength="13.897162467385" orientation="none" hdg="0" pitch="0" roll="0" length="13.897162467385" width="0.155" height="0.75">
+                <repeat s="0.898" length="13.897162467385" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="13.897162467385" lengthEnd="13.897162467385" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 372" id="5" s="14.795162467385" t="-17" zOffset="0" validLength="97.085837532615" orientation="none" hdg="0" pitch="0" roll="0" length="97.085837532615" width="0.155" height="0.75">
+                <repeat s="14.795162467385" length="97.085837532615" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="97.085837532615" lengthEnd="97.085837532615" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 377" id="6" s="23.288162467385" t="2" zOffset="0" validLength="23.2288375326151" orientation="none" hdg="0" pitch="0" roll="0" length="23.2288375326151" width="0.155" height="0.75">
+                <repeat s="23.288162467385" length="23.2288375326151" distance="0" tStart="2" tEnd="2" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="23.2288375326151" lengthEnd="23.2288375326151" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="L" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 410" id="7" s="46.517162467385" t="2" zOffset="0" validLength="121.022837532615" orientation="none" hdg="0" pitch="0" roll="0" length="121.022837532615" width="0.155" height="0.75">
+                <repeat s="46.517162467385" length="121.022837532615" distance="0" tStart="2" tEnd="2" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="121.022837532615" lengthEnd="121.022837532615" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="L" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 373" id="8" s="111.881162467385" t="-17" zOffset="0" validLength="58.716837532615" orientation="none" hdg="0" pitch="0" roll="0" length="58.716837532615" width="0.155" height="0.75">
+                <repeat s="111.881162467385" length="58.716837532615" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="58.716837532615" lengthEnd="58.716837532615" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 411" id="9" s="167.540162467385" t="2" zOffset="0" validLength="91.0068375326151" orientation="none" hdg="0" pitch="0" roll="0" length="91.0068375326151" width="0.155" height="0.75">
+                <repeat s="167.540162467385" length="91.0068375326151" distance="0" tStart="2" tEnd="2" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="91.0068375326151" lengthEnd="91.0068375326151" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="L" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 374" id="10" s="170.598162467385" t="-17" zOffset="0" validLength="156.735837532615" orientation="none" hdg="0" pitch="0" roll="0" length="156.735837532615" width="0.155" height="0.75">
+                <repeat s="170.598162467385" length="156.735837532615" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="156.735837532615" lengthEnd="156.735837532615" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 412" id="11" s="258.547162467385" t="2" zOffset="0" validLength="251.462837532615" orientation="none" hdg="0" pitch="0" roll="0" length="251.462837532615" width="0.155" height="0.75">
+                <repeat s="258.547162467385" length="251.462837532615" distance="0" tStart="2" tEnd="2" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="251.462837532615" lengthEnd="251.462837532615" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="L" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 375" id="12" s="327.334162467385" t="-17" zOffset="0" validLength="224.554837532615" orientation="none" hdg="0" pitch="0" roll="0" length="224.554837532615" width="0.155" height="0.75">
+                <repeat s="327.334162467385" length="224.554837532615" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="224.554837532615" lengthEnd="224.554837532615" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 416" id="13" s="560.827941499213" t="-17" zOffset="0" validLength="110.463220968172" orientation="none" hdg="0" pitch="0" roll="0" length="110.463220968172" width="0.155" height="0.75">
+                <repeat s="560.827941499213" length="110.463220968172" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="110.463220968172" lengthEnd="110.463220968172" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 418" id="14" s="691.171770885433" t="-17" zOffset="0" validLength="81.8701706137799" orientation="none" hdg="0" pitch="0" roll="0" length="81.8701706137799" width="0.155" height="0.75">
+                <repeat s="691.171770885433" length="81.8701706137799" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="81.8701706137799" lengthEnd="81.8701706137799" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 421" id="15" s="778.879535198" t="-17" zOffset="0" validLength="196.951235687433" orientation="none" hdg="0" pitch="0" roll="0" length="196.951235687433" width="0.155" height="0.75">
+                <repeat s="778.879535198" length="196.951235687433" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="196.951235687433" lengthEnd="196.951235687433" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 420" id="16" s="778.879535198" t="-17" zOffset="0" validLength="183.312235687433" orientation="none" hdg="0" pitch="0" roll="0" length="183.312235687433" width="0.155" height="0.75">
+                <repeat s="778.879535198" length="183.312235687433" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="183.312235687433" lengthEnd="183.312235687433" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 422" id="17" s="922.371535198" t="-17" zOffset="0" validLength="88.4282356874329" orientation="none" hdg="0" pitch="0" roll="0" length="88.4282356874329" width="0.155" height="0.75">
+                <repeat s="922.371535198" length="88.4282356874329" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="88.4282356874329" lengthEnd="88.4282356874329" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 640" id="18" s="2301.863" t="-20" zOffset="0" validLength="41.3295545533501" orientation="none" hdg="0" pitch="0" roll="0" length="41.3295545533501" width="0.155" height="0.75">
+                <repeat s="2301.863" length="41.3295545533501" distance="0" tStart="-20" tEnd="-20" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="41.3295545533501" lengthEnd="41.3295545533501" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 641" id="19" s="2354.70355455335" t="-20.5" zOffset="0" validLength="18.0254454466494" orientation="none" hdg="0" pitch="0" roll="0" length="18.0254454466494" width="0.155" height="0.75">
+                <repeat s="2354.70355455335" length="18.0254454466494" distance="0" tStart="-20.5" tEnd="-20.5" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="18.0254454466494" lengthEnd="18.0254454466494" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="L" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 645" id="20" s="2516.91656768707" t="9.5" zOffset="0" validLength="151.297986866281" orientation="none" hdg="0" pitch="0" roll="0" length="151.297986866281" width="0.155" height="0.75">
+                <repeat s="2516.91656768707" length="151.297986866281" distance="0" tStart="9.5" tEnd="9.5" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="151.297986866281" lengthEnd="151.297986866281" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="L" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 646" id="21" s="2517.43556768707" t="-20" zOffset="0" validLength="151.90898686628" orientation="none" hdg="0" pitch="0" roll="0" length="151.90898686628" width="0.155" height="0.75">
+                <repeat s="2517.43556768707" length="151.90898686628" distance="0" tStart="-20" tEnd="-20" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="151.90898686628" lengthEnd="151.90898686628" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Traffic barrier" subtype="none" dynamic="no" name="object 660" id="22" s="3942.17808058999" t="-17" zOffset="0" validLength="14.2745101323649" orientation="none" hdg="0" pitch="0" roll="0" length="14.2745101323649" width="0.155" height="0.75">
+                <repeat s="3942.17808058999" length="14.2745101323649" distance="0" tStart="-17" tEnd="-17" heightStart="0.75" heightEnd="0.75" zOffsetStart="0" zOffsetEnd="0" lengthStart="14.2745101323649" lengthEnd="14.2745101323649" widthStart="0.155" widthEnd="0.155" />
+                <userData code="IPGRoad" value="Traffic barrier">
+                    <parameters side="R" type="3" interval="3.000000" detectability="1.000000" visibility="1" pType="2" eType0="0" eType1="0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 465" id="23" s="507.014" t="46.431" zOffset="0" validLength="243.23" orientation="none" hdg="0" pitch="0" roll="0" length="243.23" width="35" height="16">
+                <repeat s="507.014" length="243.23" distance="0" tStart="46.431" tEnd="46.431" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="243.23" lengthEnd="243.23" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="1.000000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Tree_07.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 463" id="24" s="750.619" t="42.313" zOffset="0" validLength="65.212" orientation="none" hdg="0" pitch="0" roll="0" length="65.212" width="35" height="16">
+                <repeat s="750.619" length="65.212" distance="0" tStart="42.313" tEnd="42.313" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="65.212" lengthEnd="65.212" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="1.000000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Tree_07.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 464" id="25" s="818.481" t="37.239" zOffset="0" validLength="65.4930000000001" orientation="none" hdg="0" pitch="0" roll="0" length="65.4930000000001" width="35" height="16">
+                <repeat s="818.481" length="65.4930000000001" distance="0" tStart="37.239" tEnd="37.239" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="65.4930000000001" lengthEnd="65.4930000000001" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="1.000000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Tree_07.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 462" id="26" s="883.446" t="25.797" zOffset="0" validLength="44.4639999999999" orientation="none" hdg="0" pitch="0" roll="0" length="44.4639999999999" width="35" height="16">
+                <repeat s="883.446" length="44.4639999999999" distance="0" tStart="25.797" tEnd="25.797" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="44.4639999999999" lengthEnd="44.4639999999999" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="1.000000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Tree_07.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 461" id="27" s="927.361" t="26.273" zOffset="0" validLength="39.751" orientation="none" hdg="0" pitch="0" roll="0" length="39.751" width="35" height="16">
+                <repeat s="927.361" length="39.751" distance="0" tStart="26.273" tEnd="26.273" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="39.751" lengthEnd="39.751" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="1.000000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Tree_07.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 466" id="28" s="1024.76" t="19.237" zOffset="0" validLength="203.008" orientation="none" hdg="0" pitch="0" roll="0" length="203.008" width="35" height="4">
+                <repeat s="1024.76" length="203.008" distance="0" tStart="19.237" tEnd="19.237" heightStart="4" heightEnd="4" zOffsetStart="0" zOffsetEnd="0" lengthStart="203.008" lengthEnd="203.008" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="5.000000" scaleH="0.500000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 467" id="29" s="1228.467" t="26.643" zOffset="0" validLength="204.91" orientation="none" hdg="0" pitch="0" roll="0" length="204.91" width="35" height="4">
+                <repeat s="1228.467" length="204.91" distance="0" tStart="26.643" tEnd="26.643" heightStart="4" heightEnd="4" zOffsetStart="0" zOffsetEnd="0" lengthStart="204.91" lengthEnd="204.91" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="5.000000" scaleH="0.500000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 468" id="30" s="1405.586" t="25.308" zOffset="0" validLength="50.789" orientation="none" hdg="0" pitch="0" roll="0" length="50.789" width="35" height="4">
+                <repeat s="1405.586" length="50.789" distance="0" tStart="25.308" tEnd="25.308" heightStart="4" heightEnd="4" zOffsetStart="0" zOffsetEnd="0" lengthStart="50.789" lengthEnd="50.789" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="5.000000" scaleH="0.500000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 481" id="31" s="1455.715" t="23.198" zOffset="0" validLength="54.8920000000001" orientation="none" hdg="0" pitch="0" roll="0" length="54.8920000000001" width="35" height="4">
+                <repeat s="1455.715" length="54.8920000000001" distance="0" tStart="23.198" tEnd="23.198" heightStart="4" heightEnd="4" zOffsetStart="0" zOffsetEnd="0" lengthStart="54.8920000000001" lengthEnd="54.8920000000001" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="5.000000" scaleH="0.500000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 603" id="32" s="1749.566" t="52.5" zOffset="0" validLength="123.873" orientation="none" hdg="0" pitch="0" roll="0" length="123.873" width="35" height="16">
+                <repeat s="1749.566" length="123.873" distance="0" tStart="52.5" tEnd="52.5" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="123.873" lengthEnd="123.873" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 604" id="33" s="1877.701" t="54.231" zOffset="0" validLength="229.633" orientation="none" hdg="0" pitch="0" roll="0" length="229.633" width="35" height="16">
+                <repeat s="1877.701" length="229.633" distance="0" tStart="54.231" tEnd="54.231" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="229.633" lengthEnd="229.633" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 605" id="34" s="2162.818" t="44.435" zOffset="0" validLength="103.788" orientation="none" hdg="0" pitch="0" roll="0" length="103.788" width="35" height="16">
+                <repeat s="2162.818" length="103.788" distance="0" tStart="44.435" tEnd="44.435" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="103.788" lengthEnd="103.788" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 607" id="35" s="2262.091" t="42.5" zOffset="0" validLength="41.799" orientation="none" hdg="0" pitch="0" roll="0" length="41.799" width="35" height="16">
+                <repeat s="2262.091" length="41.799" distance="0" tStart="42.5" tEnd="42.5" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="41.799" lengthEnd="41.799" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 606" id="36" s="2305.545" t="37.5" zOffset="0" validLength="228.584" orientation="none" hdg="0" pitch="0" roll="0" length="228.584" width="35" height="16">
+                <repeat s="2305.545" length="228.584" distance="0" tStart="37.5" tEnd="37.5" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="228.584" lengthEnd="228.584" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 649" id="37" s="2540.283" t="30" zOffset="0" validLength="151.64" orientation="none" hdg="0" pitch="0" roll="0" length="151.64" width="35" height="16">
+                <repeat s="2540.283" length="151.64" distance="0" tStart="30" tEnd="30" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="151.64" lengthEnd="151.64" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 650" id="38" s="2689.779" t="33.616" zOffset="0" validLength="246.585" orientation="none" hdg="0" pitch="0" roll="0" length="246.585" width="35" height="16">
+                <repeat s="2689.779" length="246.585" distance="0" tStart="33.616" tEnd="33.616" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="246.585" lengthEnd="246.585" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 651" id="39" s="2958.346" t="30" zOffset="0" validLength="169.255" orientation="none" hdg="0" pitch="0" roll="0" length="169.255" width="35" height="16">
+                <repeat s="2958.346" length="169.255" distance="0" tStart="30" tEnd="30" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="169.255" lengthEnd="169.255" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 652" id="40" s="3118.16" t="35.208" zOffset="0" validLength="237.383" orientation="none" hdg="0" pitch="0" roll="0" length="237.383" width="35" height="16">
+                <repeat s="3118.16" length="237.383" distance="0" tStart="35.208" tEnd="35.208" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="237.383" lengthEnd="237.383" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 653" id="41" s="3354.631" t="36.306" zOffset="0" validLength="173.696" orientation="none" hdg="0" pitch="0" roll="0" length="173.696" width="35" height="16">
+                <repeat s="3354.631" length="173.696" distance="0" tStart="36.306" tEnd="36.306" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="173.696" lengthEnd="173.696" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 656" id="42" s="3533.173" t="35" zOffset="0" validLength="57.8400000000001" orientation="none" hdg="0" pitch="0" roll="0" length="57.8400000000001" width="35" height="16">
+                <repeat s="3533.173" length="57.8400000000001" distance="0" tStart="35" tEnd="35" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="57.8400000000001" lengthEnd="57.8400000000001" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 655" id="43" s="3592.845" t="44.463" zOffset="0" validLength="191.828" orientation="none" hdg="0" pitch="0" roll="0" length="191.828" width="35" height="16">
+                <repeat s="3592.845" length="191.828" distance="0" tStart="44.463" tEnd="44.463" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="191.828" lengthEnd="191.828" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Tree strip" subtype="none" dynamic="no" name="object 654" id="44" s="3775.225" t="42.504" zOffset="0" validLength="181.441" orientation="none" hdg="0" pitch="0" roll="0" length="181.441" width="35" height="16">
+                <repeat s="3775.225" length="181.441" distance="0" tStart="42.504" tEnd="42.504" heightStart="16" heightEnd="16" zOffsetStart="0" zOffsetEnd="0" lengthStart="181.441" lengthEnd="181.441" widthStart="35" widthEnd="35" />
+                <userData code="IPGRoad" value="Tree strip">
+                    <parameters spacing="1.000000" scaleH="2.000000" scaleW="0.500000" randH="0.500000" randW="0.500000" treeFile="Textures/Trees/Bush_01.png" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 262" id="45" s="18.631" t="3" zOffset="0" validLength="1915.88698991772" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="12.131000" s1="12.131000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 252" id="46" s="54.624" t="3" zOffset="0" validLength="1860.11125587547" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="48.124000" s1="48.124000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 251" id="47" s="90.653" t="3" zOffset="0" validLength="1790.83007338292" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="84.153000" s1="84.153000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 214" id="48" s="126.092" t="3" zOffset="0" validLength="1722.68341856725" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="119.592000" s1="119.592000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 211" id="49" s="162.264" t="3" zOffset="0" validLength="1653.12725733266" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="155.764000" s1="155.764000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 285" id="50" s="190.642" t="-54.005" zOffset="-2" validLength="3.5201140721241" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="24.77" width="3671.26" height="15.43">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="190.642000" s1="190.642000" t="-66.000000" rel2Ground="1" rotZ="1.570796" scaleX="1.000000" scaleY="11.500000" scaleZ="1.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/Buildings/Office_14_3St_2" detectability="1.000000" minX="-0.390000" maxX="24.380000" minY="-159.620000" maxY="159.620000" minZ="-2.000000" maxZ="13.430000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 217" id="51" s="197.979" t="3" zOffset="0" validLength="363" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="191.479000" s1="191.479000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 282" id="52" s="195.672" t="63.48" zOffset="-75" validLength="12.8566144438398" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="68.04" width="3186" height="340">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="195.672000" s1="195.672000" t="30.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="15.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/Buildings/Neoclassical_01_3" detectability="1.000000" minX="-0.180000" maxX="22.500000" minY="-106.200000" maxY="106.200000" minZ="-15.000000" maxZ="53.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 218" id="53" s="233.957" t="2.999" zOffset="0" validLength="363" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="227.457000" s1="227.457000" t="2.999000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 232" id="54" s="270.186" t="3" zOffset="0" validLength="363" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="263.686000" s1="263.686000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 233" id="55" s="306.456" t="3" zOffset="0" validLength="363.064254984307" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="299.956000" s1="299.956000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 234" id="56" s="342.695" t="3" zOffset="0" validLength="361.274398127357" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="336.195000" s1="336.195000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 235" id="57" s="378.624" t="3" zOffset="0" validLength="352.403193167075" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="372.124000" s1="372.124000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 296" id="58" s="405.341" t="63.48" zOffset="-75" validLength="80.3309351503166" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="68.04" width="3186" height="340">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="405.341000" s1="405.341000" t="30.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="15.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/Buildings/Neoclassical_01_3" detectability="1.000000" minX="-0.180000" maxX="22.500000" minY="-106.200000" maxY="106.200000" minZ="-15.000000" maxZ="53.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 245" id="59" s="415.117" t="3" zOffset="0" validLength="341.300589096326" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="408.617000" s1="408.617000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 249" id="60" s="451.285" t="3" zOffset="0" validLength="331.894609614678" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="444.785000" s1="444.785000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 250" id="61" s="637.827600208586" t="131.68587394959" zOffset="0" validLength="1.62347793538515" orientation="none" hdg="2.4949803452613" pitch="0" roll="0" length="5.58" width="13068" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="481.117000" s1="495.931000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="60.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-112.800000" maxY="105.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 423" id="62" s="627.389062150385" t="38.1309506885609" zOffset="0" validLength="14.5343742596267" orientation="none" hdg="1.48352986419518" pitch="0" roll="0" length="5.58" width="1452" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="601.488000" s1="601.488000" t="40.397000" rel2Ground="1" rotZ="1.483530" scaleX="3.000000" scaleY="20.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-37.600000" maxY="35.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 425" id="63" s="657.418201679199" t="26.7626062057192" zOffset="0" validLength="174.120640601278" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="816.75" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="648.260000" s1="648.260000" t="29.248000" rel2Ground="1" rotZ="1.308997" scaleX="3.000000" scaleY="15.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-28.200000" maxY="26.250000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 429" id="64" s="721.638" t="24.938" zOffset="0" validLength="14.9920463292605" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="1452" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="695.638000" s1="695.638000" t="24.938000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="20.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-37.600000" maxY="35.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 430" id="65" s="749.72874626281" t="22.8396065386748" zOffset="0" validLength="135.69595027957" orientation="none" hdg="1.75629769194007" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="746.060000" s1="746.060000" t="22.420000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 431" id="66" s="771.8930532792" t="22.7391707093455" zOffset="0" validLength="66.6022512751487" orientation="none" hdg="1.75818822219715" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="767.683000" s1="767.683000" t="22.412000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 432" id="67" s="805.850250394579" t="21.1072868451649" zOffset="0" validLength="37.5586085258387" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="799.449000" s1="799.449000" t="22.236000" rel2Ground="1" rotZ="1.396263" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 434" id="68" s="841.427250394579" t="15.3542868451649" zOffset="0" validLength="24.0065923655627" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="835.026000" s1="835.026000" t="16.483000" rel2Ground="1" rotZ="1.396263" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 456" id="69" s="876.588250394579" t="8.87028684516497" zOffset="0" validLength="18.5230931364902" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="870.187000" s1="870.187000" t="9.999000" rel2Ground="1" rotZ="1.396263" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 457" id="70" s="911.843" t="7.00000000000009" zOffset="0" validLength="21.4848526935322" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="905.343000" s1="905.343000" t="7.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 458" id="71" s="978.487796732478" t="12.0279471620205" zOffset="0" validLength="5.43136610424199" orientation="none" hdg="2.04675733737669" pitch="0" roll="0" length="5.58" width="1452" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="957.548000" s1="957.548000" t="7.871000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="20.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-37.600000" maxY="35.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 460" id="72" s="995.307014937076" t="25.7859487029064" zOffset="0" validLength="16.4766630806935" orientation="none" hdg="2.03956417910819" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="992.270000" s1="992.270000" t="23.197000" rel2Ground="1" rotZ="1.919862" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 428" id="73" s="1027.05127044048" t="111.138313028726" zOffset="-75" validLength="37.1697787563348" orientation="none" hdg="0.522703875358383" pitch="0" roll="0" length="158.0625" width="25" height="374.75">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1002.395000" s1="1002.395000" t="90.000000" rel2Ground="0" rotZ="0.000000" scaleX="2.500000" scaleY="1.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/Buildings/Office_13_3St_2" detectability="1.000000" minX="0.000000" maxX="63.225000" minY="-12.500000" maxY="12.500000" minZ="-15.000000" maxZ="59.950000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 459" id="74" s="1016.70410915873" t="31.2998201770712" zOffset="0" validLength="256.181283168671" orientation="none" hdg="1.65373655826911" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1012.793000" s1="1012.793000" t="31.030000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 470" id="75" s="1225.86848293558" t="-43.408760001798" zOffset="0" validLength="66.6341535096692" orientation="none" hdg="1.50680248432945" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1222.139000" s1="1241.739000" t="-43.201000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 471" id="76" s="1247.14798914161" t="-43.4248544436173" zOffset="0" validLength="58.5034891430444" orientation="none" hdg="1.50681671297452" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1243.420000" s1="1243.420000" t="-43.217000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 472" id="77" s="1268.5685138798" t="-45.2043008883657" zOffset="0" validLength="124.884892950992" orientation="none" hdg="1.50795455560765" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1264.904000" s1="1272.552000" t="-45.000000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 473" id="78" s="1288.63711281742" t="-41.6587784911212" zOffset="0" validLength="126.603314772913" orientation="none" hdg="1.46618308272551" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1284.931000" s1="1298.478000" t="-42.000000" rel2Ground="0" rotZ="1.658063" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 474" id="79" s="1309.42726982635" t="-39.6151600846558" zOffset="0" validLength="131.606248074934" orientation="none" hdg="nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1305.397000" s1="1305.397000" t="-40.000000" rel2Ground="0" rotZ="1.658063" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 475" id="80" s="1331.58905169443" t="-35.6884701808206" zOffset="0" validLength="180.418620227149" orientation="none" hdg="nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1327.477000" s1="1337.007000" t="-36.059000" rel2Ground="0" rotZ="1.658063" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 476" id="81" s="1355.05783259953" t="-29.1591606951124" zOffset="0" validLength="303.174158853327" orientation="none" hdg="1.37620908099402" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1351.077000" s1="1351.077000" t="-30.000000" rel2Ground="0" rotZ="1.745329" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 477" id="82" s="1381.847" t="-28.742" zOffset="0" validLength="266.809256003357" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1375.347000" s1="1391.045000" t="-28.742000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 478" id="83" s="1419.12125039458" t="-23.871286845165" zOffset="0" validLength="238.235828406751" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1412.720000" s1="1425.828000" t="-25.000000" rel2Ground="0" rotZ="1.745329" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 479" id="84" s="1455.428" t="-22" zOffset="0" validLength="281.042651834958" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1448.928000" s1="1448.928000" t="-22.000000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 480" id="85" s="1492.611" t="-22" zOffset="0" validLength="284.585933762836" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1486.111000" s1="1496.674000" t="-22.000000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 482" id="86" s="1516.248" t="-22.373" zOffset="0" validLength="97.6344695443729" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="90.75" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1514.623000" s1="1533.205000" t="-22.373000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="5.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-9.400000" maxY="8.750000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 483" id="87" s="1572.871" t="-27.567" zOffset="0" validLength="304.414484523884" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1566.371000" s1="1569.860000" t="-27.567000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 484" id="88" s="1599.334" t="21.385" zOffset="0" validLength="275.244592874657" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1592.834000" s1="1592.834000" t="21.385000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 486" id="89" s="1609.065" t="-27.442" zOffset="0" validLength="324.006408826293" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1602.565000" s1="1602.565000" t="-27.442000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 485" id="90" s="1636.349" t="21.9649999999999" zOffset="0" validLength="295.371402595355" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1629.849000" s1="1633.848000" t="21.965000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 487" id="91" s="1644.44" t="-27.423" zOffset="0" validLength="366.281651861738" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1637.940000" s1="1643.976000" t="-27.423000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 596" id="92" s="1671.853" t="22.135" zOffset="0" validLength="307.102149230519" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1665.353000" s1="1665.353000" t="22.135000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 488" id="93" s="1679.902" t="-27.586" zOffset="0" validLength="368.74040644027" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1673.402000" s1="1690.992000" t="-27.586000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 469" id="94" s="1680" t="154.547" zOffset="-3" validLength="301.827573120289" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="234" width="378" height="52.98">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1680.000000" s1="1680.000000" t="37.547000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="3.000000" scaleZ="1.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/Buildings/Highrise_CHN_03_16St_1" detectability="1.000000" minX="0.000000" maxX="78.000000" minY="-63.000000" maxY="63.000000" minZ="-3.000000" maxZ="49.980000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 597" id="95" s="1708.371" t="21.927" zOffset="0" validLength="304.421161520032" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1701.871000" s1="1704.932000" t="21.927000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 489" id="96" s="1715.298" t="-27.31" zOffset="0" validLength="369.368934750805" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1708.798000" s1="1721.215000" t="-27.310000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 598" id="97" s="1744.791" t="21.656" zOffset="0" validLength="294.097105352034" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1738.291000" s1="1738.291000" t="21.656000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 595" id="98" s="1753.26" t="-28.152" zOffset="0" validLength="334.465661343853" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1746.760000" s1="1756.299000" t="-28.152000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 599" id="99" s="1780.63" t="21.277" zOffset="0" validLength="275.496880827606" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1774.130000" s1="1780.758000" t="21.277000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 600" id="100" s="1790.317" t="-27.853" zOffset="0" validLength="332.678698763672" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1783.817000" s1="1783.817000" t="-27.853000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 601" id="101" s="1812.76021889249" t="15.8341039912282" zOffset="0" validLength="377.028531835065" orientation="none" hdg="1.50524194111364" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1808.071000" s1="1816.403000" t="16.614000" rel2Ground="0" rotZ="1.396263" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 602" id="102" s="1838.93095366001" t="9.6974718421131" zOffset="0" validLength="310.292038648734" orientation="none" hdg="1.51794410468498" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1833.694000" s1="1836.260000" t="10.436000" rel2Ground="0" rotZ="1.396263" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 608" id="103" s="1873.88639230798" t="9.71165254377634" zOffset="0" validLength="266.401768496257" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1867.530000" s1="1867.530000" t="9.704000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 609" id="104" s="1908.28763337496" t="9.64857768715439" zOffset="0" validLength="283.718233905022" orientation="none" hdg="nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1901.842000" s1="1910.017000" t="9.701000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 610" id="105" s="1941.65129974536" t="9.48531039887898" zOffset="0" validLength="322.948042152008" orientation="none" hdg="1.43967420222509" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1934.746000" s1="1944.793000" t="9.614000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 611" id="106" s="1981.0284146061" t="9.45729838566172" zOffset="0" validLength="353.534376343848" orientation="none" hdg="1.27061816302341" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="1973.448000" s1="1979.635000" t="9.712000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 612" id="107" s="2018.231" t="8.19300000000001" zOffset="0" validLength="300.853207621685" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2011.731000" s1="2015.394000" t="8.193000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 613" id="108" s="2053.938" t="8.21599999999999" zOffset="0" validLength="288.967155243959" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2047.438000" s1="2047.778000" t="8.216000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 614" id="109" s="2090.343" t="8.435" zOffset="0" validLength="433.167502719295" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2083.843000" s1="2094.900000" t="8.435000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 615" id="110" s="2135.71752832186" t="16.1800276877406" zOffset="0" validLength="38.3758010976053" orientation="none" hdg="1.15612789490864" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2125.352000" s1="2125.352000" t="17.000000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 616" id="111" s="2164.68" t="10.297" zOffset="0" validLength="38.0905919754532" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2160.520000" s1="2163.757000" t="10.297000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 617" id="112" s="2191.17291128662" t="9.24030979096849" zOffset="0" validLength="39.5186814116769" orientation="none" hdg="1.65216278537036" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2187.760000" s1="2187.760000" t="9.071000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 618" id="113" s="2214.29318919784" t="8.35739155249373" zOffset="0" validLength="1555.08349972674" orientation="none" hdg="1.65370362700167" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2210.821000" s1="2210.821000" t="8.185000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 619" id="114" s="2239.12248668557" t="8.24865040093834" zOffset="0" validLength="1502.83905411122" orientation="none" hdg="1.65376440586277" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2235.642000" s1="2236.055000" t="8.076000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 620" id="115" s="2263.93773048871" t="7.3590571027128" zOffset="0" validLength="1356.71596908809" orientation="none" hdg="1.65535071354445" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2260.395000" s1="2262.405000" t="7.183000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 621" id="116" s="2290.14271796619" t="7.40941000815643" zOffset="0" validLength="1375.454994344" orientation="none" hdg="1.67592939615095" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2286.449000" s1="2294.463000" t="7.277000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 622" id="117" s="2319.134" t="7.89499999999998" zOffset="0" validLength="8.25683613669435" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2314.974000" s1="2314.974000" t="7.895000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 623" id="118" s="2346.88" t="8.49400000000004" zOffset="0" validLength="1367.19956620757" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="5.58" width="232.32" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="2342.720000" s1="2342.720000" t="8.494000" rel2Ground="0" rotZ="1.570796" scaleX="3.000000" scaleY="8.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-15.040000" maxY="14.000000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 269" id="119" s="3831.7055568268" t="3.00045349545729" zOffset="0" validLength="99.2496154148521" orientation="none" hdg="-nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="3825.206000" s1="3825.206000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 268" id="120" s="3867.74781594752" t="2.99908364604836" zOffset="0" validLength="114.947549019963" orientation="none" hdg="nan" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="3861.247000" s1="3868.853000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 267" id="121" s="3903.32615792625" t="2.99773080718394" zOffset="0" validLength="1791.34771078053" orientation="none" hdg="1.5673747414996" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="3896.824000" s1="3896.824000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 286" id="122" s="3936.56798517336" t="-43.5158476141062" zOffset="-6" validLength="1913.86575837302" orientation="none" hdg="1.56528589519822" pitch="-0.174532925199433" roll="-0.0872664625997165" length="21.5" width="134.375" height="70.88">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="3931.915000" s1="3953.705000" t="-54.264000" rel2Ground="1" rotZ="1.570796" scaleX="1.000000" scaleY="2.500000" scaleZ="2.000000" zOffset="-2.000000" width="0.000000" geoObjFile="3D/Buildings/Office_CHN_01_5St_2" detectability="1.000000" minX="0.000000" maxX="21.500000" minY="-28.750000" maxY="25.000000" minZ="-2.000000" maxZ="33.440000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Geometry object" subtype="none" dynamic="no" name="object 263" id="123" s="3939.49449646126" t="2.99635491029098" zOffset="0" validLength="1821.82056832044" orientation="none" hdg="1.56528139485759" pitch="0" roll="0" length="5.58" width="363" height="50">
+                <userData code="IPGRoad" value="Geometry object">
+                    <parameters s0="3932.991000" s1="3932.991000" t="3.000000" rel2Ground="1" rotZ="1.570796" scaleX="3.000000" scaleY="10.000000" scaleZ="5.000000" zOffset="0.000000" width="0.000000" geoObjFile="3D/StreetFurniture/Construction/Construction_Fence" detectability="1.000000" minX="-0.930000" maxX="0.930000" minY="-18.800000" maxY="17.500000" minZ="0.000000" maxZ="10.000000" />
+                </userData>
+            </object>
+            <object type="IPGRoad Road painting" subtype="none" dynamic="no" name="object 280" id="124" s="3.489" t="-7.5" zOffset="0" validLength="2.00000000000001" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="16" width="2" height="0">
+                <userData code="IPGRoad" value="Road painting">
+                    <parameters material="Textures/Ground/CheckeredPattern_BlackWhite_1.png 0 0 0 0 0 0 1 1 0 0 0" />
+                </userData>
+            </object>
+            <object type="IPGRoad Road painting" subtype="none" dynamic="no" name="object 279" id="125" s="181.034" t="-7.5" zOffset="0" validLength="2" orientation="none" hdg="1.5707963267949" pitch="0" roll="0" length="16" width="2" height="0">
+                <userData code="IPGRoad" value="Road painting">
+                    <parameters material="1.0,1.0,1.0 0 0 0 0 0 0 0 0 0 0 0" />
+                </userData>
+            </object>
+        </objects>
+    </road>
+</OpenDRIVE>
