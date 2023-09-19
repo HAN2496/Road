@@ -1,0 +1,92 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = IPGRoad 10.0
+FileCreator = CarMaker 10.2.1
+LibVersion = 10.2.1
+Country = DEU
+nLinks = 1
+nJunctions = 0
+nObjects = 49
+nRoutes = 1
+RoadNetworkLength = 700
+BBox = -10 910 -25.5 40.5 -11 11
+Route.0.Length = 700
+RST.Unit = kmh
+RST = 50 100 -1 30 70 50 -1 -1
+Movie = 0.2 1 0.02 1.5 1.5 1 1
+PathMode = -1
+Link.0.ID = 1
+Link.0.Node0 = 0 0 0 0
+Link.0.Node1 = 700 0 0 0
+Link.0.RST = Undefined
+Link.0.RL.ID = 2
+Link.0.Seg.0.ID = 3
+Link.0.Seg.0.Type = Straight
+Link.0.Seg.0.Param = 700 0 0 0 0 0 0 0
+Link.0.LateralCenterLineOffset.ID = 4
+Link.0.LateralCenterLineOffset:
+	5 -1 0 0 0 3 0 -999 -999
+	9 -1 480 0 0 3 0 -999 -999
+	11 -1 520 0 0 10 0 -999 -999
+	12 -1 630 0 0 10 0 -999 -999
+	10 -1 670 0 0 3 0 -999 -999
+	8 -1 0 1 0 3 0 -999 -999
+Link.0.LaneSection.0.ID = 6
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0.ID = 14
+Link.0.LaneSection.0.LaneL.0 = 2 0.5 0.5 5 0 0 0
+Link.0.LaneSection.0.LaneR.0.ID = 15
+Link.0.LaneSection.0.LaneR.0 = 0 6 6 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.ARP = 94 95 96 97 98 99
+Link.0.LaneSection.0.LaneR.0.Width:
+	75 -1 0 0 0 6 0 -999 -999
+	76 -1 480 0 0 6 0 -999 -999
+	77 -1 520 0 0 20 0 -999 -999
+	78 -1 630 0 0 20 0 -999 -999
+	79 -1 670 0 0 6 0 -999 -999
+	80 -1 0 1 0 6 0 -999 -999
+Link.0.LaneSection.0.LaneR.1.ID = 22
+Link.0.LaneSection.0.LaneR.1 = 2 0.5 0.5 5 0 0 0
+LanePath.0 = 50 15 2 10 0.1 0.1
+Route.0.ID = 0
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 7
+Route.0.DrvPath:
+	50
+RL.2.RoadMarking.0.ID = 46 2
+RL.2.RoadMarking.0 = 0 0 0 1 -0.1 1 0.1 0 1 0 0 0 0 1 1 4 ""
+RL.2.RoadMarking.1.ID = 47 2
+RL.2.RoadMarking.1 = 0 0 0 1 0.1 -1 0.1 0 1 0 0 0 0 1 1 4 ""
+RL.2.Marker.0.ID = 34 2
+RL.2.Marker.0.Type = DrvPylon
+RL.2.Marker.0.Param = 500 0 0 100 1 2.142
+RL.2.Marker.1.ID = 35 2
+RL.2.Marker.1.Type = DrvPylon
+RL.2.Marker.1.Param = 507.5 0 0 100 1 2.142
+RL.2.Marker.2.ID = 36 2
+RL.2.Marker.2.Type = DrvPylon
+RL.2.Marker.2.Param = 515 0 0 100 1 2.142
+RL.2.Marker.3.ID = 37 2
+RL.2.Marker.3.Type = DrvPylon
+RL.2.Marker.3.Param = 545 0 3.586 100 1 2.314
+RL.2.Marker.4.ID = 38 2
+RL.2.Marker.4.Type = DrvPylon
+RL.2.Marker.4.Param = 557.5 0 3.586 100 1 2.314
+RL.2.Marker.5.ID = 39 2
+RL.2.Marker.5.Type = DrvPylon
+RL.2.Marker.5.Param = 570 0 3.586 100 1 2.314
+RL.2.Marker.6.ID = 40 2
+RL.2.Marker.6.Type = DrvPylon
+RL.2.Marker.6.Param = 595 0 0.172 100 1 2.486
+RL.2.Marker.7.ID = 41 2
+RL.2.Marker.7.Type = DrvPylon
+RL.2.Marker.7.Param = 602.5 0 0.172 100 1 2.486
+RL.2.Marker.8.ID = 42 2
+RL.2.Marker.8.Type = DrvPylon
+RL.2.Marker.8.Param = 610 0 0.172 100 1 2.486
+RL.2.Marker.9.ID = 43 2
+RL.2.Marker.9.Type = DrvPylon
+RL.2.Marker.9.Param = 617.5 0 0.172 100 1 2.486
+RL.2.Marker.10.ID = 44 2
+RL.2.Marker.10.Type = DrvPylon
+RL.2.Marker.10.Param = 625 0 0.172 100 1 2.486
+MaxUsedObjId = 99
