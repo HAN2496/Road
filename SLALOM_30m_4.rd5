@@ -5,10 +5,10 @@ LibVersion = 10.2.1
 Country = DEU
 nLinks = 1
 nJunctions = 0
-nObjects = 59
+nObjects = 63
 nRoutes = 1
 RoadNetworkLength = 500
-BBox = -10.3256505618101 510.000491468918 -40.4264789027678 16.9995084618333 -11 11
+BBox = -10 510 -33.5 13.5 -11 11
 Route.0.Length = 500
 RST.Unit = kmh
 RST = 50 100 130 30 70 30 0 -1
@@ -48,9 +48,37 @@ Route.0.DrvPath:
 RL.1.RoadMarking.0.ID = 30 16
 RL.1.RoadMarking.0 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 ""
 RL.1.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
-RL.1.RoadMarking.1.ID = 40 6
-RL.1.RoadMarking.1 = 0 0 0 1 0 0 0.15 0 1 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.1.ID = 24 1
+RL.1.RoadMarking.1 = 0 0 0 1 -10 100 0.15 0 1 1 0 2 4 1 1 0 ""
 RL.1.RoadMarking.1.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+RL.1.RoadMarking.1.PointList:
+	0 0
+	85 0
+RL.1.RoadMarking.2.ID = 40 6
+RL.1.RoadMarking.2 = 0 0 0 1 0 0 0.15 0 1 0 0 2 4 1 1 0 ""
+RL.1.RoadMarking.2.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+RL.1.RoadMarking.3.ID = 4 1
+RL.1.RoadMarking.3 = 85 0 0 1 -10 100 0.15 0 1 2 0 2 4 1 1 0 ""
+RL.1.RoadMarking.3.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+RL.1.RoadMarking.3.PointList:
+	0 0
+	15 5
+	45 -5
+	75 5
+	105 -5
+	135 5
+	165 -5
+	195 5
+	225 -5
+	255 5
+	285 -5
+	300 0
+RL.1.RoadMarking.4.ID = 26 1
+RL.1.RoadMarking.4 = 385 0 0 1 -10 100 0.15 0 1 1 0 2 4 1 1 0 ""
+RL.1.RoadMarking.4.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+RL.1.RoadMarking.4.PointList:
+	0 0
+	115 0
 RL.1.Marker.0.ID = 2 23
 RL.1.Marker.0.Type = DrvPylon
 RL.1.Marker.0.Param = 85 0 -10 0 1 3
