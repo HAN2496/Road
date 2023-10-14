@@ -1,14 +1,14 @@
 #INFOFILE1.1 - Do not remove this line!
 FileIdent = IPGRoad 10.0
-FileCreator = CarMaker for Simulink 10.2.1
+FileCreator = CarMaker 10.2.1
 LibVersion = 10.2.1
 Country = DEU
 nLinks = 1
 nJunctions = 0
-nObjects = 62
+nObjects = 63
 nRoutes = 1
 RoadNetworkLength = 161
-BBox = -13.097 171 -33.5 52.412 -11 11
+BBox = -10 171 -33.5 13.5 -11 11
 Route.0.Length = 161
 RST.Unit = kmh
 RST = 50 100 130 30 70 30 0 -1
@@ -45,12 +45,23 @@ Route.0.Name = Route_0
 Route.0.DrvPath.ID = 16
 Route.0.DrvPath:
 	584
-RL.562.RoadMarking.0.ID = 591 577
-RL.562.RoadMarking.0 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 ""
+RL.562.RoadMarking.0.ID = 17 562
+RL.562.RoadMarking.0 = 0 0 0 1 -10 100 0.15 0 1 1 0 2 4 1 1 0 ""
 RL.562.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
-RL.562.RoadMarking.1.ID = 601 567
-RL.562.RoadMarking.1 = 0 0 0 1 0 0 0.15 0 1 0 0 2 4 1 1 0 ""
+RL.562.RoadMarking.0.PointList:
+	0 0
+	62 0
+	75.5 3.515
+	86.5 3.515
+	99 -0.385
+	111 -0.385
+	160.5 -0.385
+RL.562.RoadMarking.1.ID = 591 577
+RL.562.RoadMarking.1 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 ""
 RL.562.RoadMarking.1.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+RL.562.RoadMarking.2.ID = 601 567
+RL.562.RoadMarking.2 = 0 0 0 1 0 0 0.15 0 1 0 0 2 4 1 1 0 ""
+RL.562.RoadMarking.2.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
 RL.562.Marker.0.ID = 1 584
 RL.562.Marker.0.Type = DrvPylon
 RL.562.Marker.0.Param = 50 0 0 -2 1 2.23
