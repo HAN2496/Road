@@ -5,10 +5,11 @@ LibVersion = 10.2.1
 Country = DEU
 nLinks = 6
 nJunctions = 2
-nObjects = 636
-nRoutes = 0
+nObjects = 638
+nRoutes = 1
 RoadNetworkLength = 1468.10031961603
 BBox = -10 1010 -297.340985121134 84.590597908009 -11 11
+Route.0.Length = 181.726230085636
 RST.Unit = kmh
 RST = 50 100 130 30 70 30 0 -1
 Movie = 0.2 1 0.01 1.5 1.5 1 1
@@ -196,7 +197,7 @@ Link.2.CamberProfile:
 	480 -1 0 1 0 0 0
 Link.3.ID = 314
 Link.3.Node0 = 647.62874816789 46.1055471625504 0 1.052
-Link.3.Node1 = 651.030865113483 46.1680199886503 0 1.052
+Link.3.Node1 = 651.030865113483 46.1680199886502 0 1.052
 Link.3.RST = Countryroad
 Link.3.RL.ID = 315
 Link.3.Seg.0.ID = 319
@@ -249,7 +250,7 @@ Link.3.CamberProfile:
 	479 -1 0 1 0 0 0
 Link.4.ID = 503
 Link.4.Node0 = 651.030865113483 46.1680199886503 0 1.052
-Link.4.Node1 = 694.222664948232 46.9611478684868 0 1.052
+Link.4.Node1 = 694.222664948232 46.9611478684869 0 1.052
 Link.4.RST = Countryroad
 Link.4.RL.ID = 504
 Link.4.Seg.0.ID = 508
@@ -364,6 +365,13 @@ LanePath.43 = 570 557 2 10 0.1 0.1
 LanePath.44 = 638 631 0.25 10 0.1 0.1
 LanePath.45 = 647 640 2 10 0.1 0.1
 LanePath.46 = 684 677 0.25 10 0.1 0.1
+Route.0.ID = 73
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 83
+Route.0.DrvPath:
+	295
+	461
+	647
 RL.1.RoadMarking.0.ID = 30 16
 RL.1.RoadMarking.0 = 0 0 0 1 0 -1 0.15 0 2 0 0 2 4 1 1 0 ""
 RL.1.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
