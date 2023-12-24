@@ -1,6 +1,6 @@
 #INFOFILE1.1 - Do not remove this line!
 FileIdent = IPGRoad 10.0
-FileCreator = CarMaker 10.2.1
+FileCreator = CarMaker for Simulink 10.2.1
 LibVersion = 10.2.1
 Country = DEU DEU
 nLinks = 1
@@ -116,7 +116,7 @@ Link.0.LaneSection.2.LaneR.3.ID = 73
 Link.0.LaneSection.2.LaneR.3 = 0 6 6 0 0 0 0
 Link.0.LaneSection.2.LaneR.3.ARP = 75 86 95 96 98 99
 Link.0.LaneSection.2.LaneR.4.ID = 188
-Link.0.LaneSection.2.LaneR.4 = 0 2 2 12 0 0 0
+Link.0.LaneSection.2.LaneR.4 = 4 2 2 12 0 0 0
 Link.0.LaneSection.2.LaneR.4.Material.0 = 0.6627,0.6627,0.6627 0 0 0 0 1 1 1 1 0 0 0
 Link.0.LaneSection.2.LaneR.4.ARP = 189 190 191 192 193 194
 Link.0.LaneSection.2.LaneR.5.ID = 198
